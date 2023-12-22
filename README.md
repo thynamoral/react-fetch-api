@@ -1,8 +1,16 @@
-# React + Vite
+# React | Shopping App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Designed to fetch products from an API, the users can also fitler the products information by category.
 
-Currently, two official plugins are available:
+API URL https://fakestoreapi.com/products
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Implemented Features
+
+- Reusable components
+- State management
+- Fetching products from API
+- Fitlering products by categroy
+
+## Live Demo
+
+[Click Here](https://react-fetch-api-lovat.vercel.app/)
